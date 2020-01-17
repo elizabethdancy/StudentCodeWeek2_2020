@@ -8,7 +8,7 @@ package ca.sheridancollege.softwarefundamentals.week1;
 /**
  * A class to model students. Students can 
  * study. They have a name and an ID.
- * @author dancye, 2020
+ * @author dancye 2020
  */
 public class Student 
 {
