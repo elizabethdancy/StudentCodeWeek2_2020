@@ -8,7 +8,7 @@ package ca.sheridancollege.softwarefundamentals.week1;
 /**
  * A class to model students. Students can 
  * study. They have a name and an ID.
- * @author dancye check fetch
+ * @author dancye check fetch twice
  */
 public class Student 
 {
