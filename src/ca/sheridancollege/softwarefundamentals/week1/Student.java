@@ -13,6 +13,7 @@ package ca.sheridancollege.softwarefundamentals.week1;
 public class Student 
 {
     // adding this comment as a change on GitHub to test pull
+    //second comment for fetch
     private String name;
     private String studentID;
     private String program;
