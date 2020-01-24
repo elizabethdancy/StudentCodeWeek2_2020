@@ -8,10 +8,11 @@ package ca.sheridancollege.softwarefundamentals.week1;
 /**
  * A class to model students. Students can 
  * study. They have a name and an ID.
- * @author dancye checks fetch twice
+ * @author dancye 
  */
 public class Student 
 {
+    // adding this comment as a change on GitHub to test pull
     private String name;
     private String studentID;
     private String program;
